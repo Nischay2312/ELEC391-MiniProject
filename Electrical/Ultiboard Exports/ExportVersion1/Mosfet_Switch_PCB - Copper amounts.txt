@@ -1,0 +1,11 @@
+Ultiboard Information Export File
+
+Design Name  : Mosfet_Switch_PCB - Copper amounts
+Report Date  : 22 January 2022
+Report Time  : 16:55
+--------------------------------------------------------------------------------
+
+Layer                  Area[mm*mm]      Length[mm]      
+
+Copper Top             0.000000         83.412694       
+Copper Bottom          0.000000         26.103466       

@@ -1,0 +1,15 @@
+Ultiboard Information Export File
+
+Design Name  : Mosfet_Switch_PCB - Part centroids
+Report Date  : 22 January 2022
+Report Time  : 16:55
+--------------------------------------------------------------------------------
+
+REFDES        VALUE        X_CENTRE[mil] Y_CENTRE[mil]    ROT SIDE     TYPE     FOOTPRINT       
+
+J1            1787205         528.89764    351.73228      0 TOP      UNKNOWN  Phoenix_1787205 
+LED1          LED_red          80.00000   -270.00000    270 TOP      THD      LED9R2_5V       
+Q1            2N7000         -420.00000   -240.00000      0 TOP      THD      TO-92(Bent)     
+R1            100Ohm 10%      500.00000   -224.40945     90 TOP      THD      RES1400-800X250 
+R2            100Ohm 10%      620.00000   -224.40945     90 TOP      THD      RES1400-800X250 
+S1            SPST           -274.16669    240.00000      0 TOP      THD      SW_MA1801       

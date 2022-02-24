@@ -1,0 +1,14 @@
+Ultiboard Information Export File
+
+Design Name  : Mosfet_Switch_PCB - Bill of materials
+Report Date  : 22 January 2022
+Report Time  : 16:55
+--------------------------------------------------------------------------------
+
+VALUE        #    REFDES        FOOTPRINT       
+
+2N7000       1    Q1            TO-92(Bent)     
+100Ohm 10%   2    R1,R2         RES1400-800X250 
+1787205      1    J1            Phoenix_1787205 
+LED_red      1    LED1          LED9R2_5V       
+SPST         1    S1            SW_MA1801       
